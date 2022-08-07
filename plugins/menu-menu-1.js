@@ -174,6 +174,7 @@ let str = `
 
 *🎎𝔾ℝ𝕌ℙ𝕆𝕊🎎* 
 
+°卐⛩️ _${usedPrefix}simular,simulate *<evento>**<@>*__
 °卐⛩️ _${usedPrefix}add *<numero>*_
 °卐⛩️ _${usedPrefix}kick *<@tag>*_
 °卐⛩️ _${usedPrefix}grupo *<abrir / cerrar>*_
@@ -334,6 +335,7 @@ let str = `
 
 *🌐𝔹𝕌𝕊ℂ𝔸𝔻𝕆ℝ𝔼𝕊🌐*
 
+°卐⛩️ _${usedPrefix}pokedex *<Nombre del pokemon>*_
 °卐⛩️ _${usedPrefix}stickersearch *<texto>*_
 °卐⛩️ _${usedPrefix}xnxxsearch *<texto>*_
 °卐⛩️ _${usedPrefix}animeinfo *<texto>*_
@@ -436,6 +438,7 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 °卐⛩️️ _${usedPrefix}spamwa *<numero|texto|cantidad>*_
 °卐⛩️️ _${usedPrefix}styletext *<texto>*_
 °卐⛩️️ _${usedPrefix}traducir *<texto>*_
+°卐⛩️️ _${usedPrefix}ip *<texto>*_
 
 *🧿𝕊𝕋𝕀ℂ𝕂𝔼ℝ𝕊🧿*
 
