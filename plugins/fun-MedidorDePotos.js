@@ -2,7 +2,7 @@ let handler = async (m, { conn, command, text }) => {
 
 let love = `*🍑 MEDIDOR DE POTOS 🍑*
 
-*El poto de ${text} es de* ${['No hay', 'Poquito', 'Tiene mas o menos', 'Se carga un tremendo culazo'].getRandom()}
+*El poto de ${text} * ${['No hay', 'Poquito', 'Tiene mas o menos', 'Se carga un tremendo culazo'].getRandom()}
 
 *Que Culazo bro🍑, serias mi culon/culona😳?*
 
