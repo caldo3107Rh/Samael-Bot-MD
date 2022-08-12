@@ -16,11 +16,11 @@ const rl = createInterface(process.stdin, process.stdout)
 say('SAMAEL - BOT', {
 font: 'chrome',
 align: 'center',
-gradient: ['red']})
-say(`Bot creado por RICARDO-SAMAEL`, {
+gradient: ['red', 'magenta']})
+say(`Bot creado por RICARDO Y GREGORI`, {
 font: 'console',
 align: 'center',
-gradient: ['red']})
+gradient: ['red', 'magenta']})
 
 var isRunning = false
 /**
@@ -35,7 +35,7 @@ let args = [join(__dirname, file), ...process.argv.slice(2)]
 say('Ajuste la pantalla para escanear el codigo QR', {
 font: 'console',
 align: 'center',
-gradient: ['red']})
+gradient: ['red', 'magenta']})
   
 setupMaster({
 exec: args[0],
