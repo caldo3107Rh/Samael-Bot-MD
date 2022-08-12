@@ -7,15 +7,34 @@ Wa.me/584249061527
 EL NUMERO NO ES BOT
 
 卐🔥 ACTIVAR EN BOXMINEHOST 🔥卐
-Pagina Oficial: https://boxmineworld.com
-Dashboard: https://dash.boxmineworld.com
-Panel: https://panel.boxmineworld.com
-Dudas UNICAMENTE SOBRE EL HOST: https://discord.gg/84qsr4v (Preguntar por Vicemi)
+
+卐Pagina Oficial: https://boxmineworld.com
+
+卐Dashboard: https://dash.boxmineworld.com
+
+卐Panel: https://panel.boxmineworld.com
+
+卐Dudas UNICAMENTE SOBRE EL HOST: https://discord.gg/84qsr4v (Preguntar por Vicemi)
+
+卐💥 ACTIVAR EN ACIDICNODES 💥卐
+
+卐TUTORIAL: https://youtu.be/nbjvreJ0tUk
+
+卐PAGINA: https://billing.acidicnodes.ml/register?ref=ADII104p
+
+卐SOPORTE: https://whatsapp.acidicnodes.com
 
 —◉ 📝 NOTAS 📝
+
 -卐 ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
+
 -卐 SI VAS A EDITAR POR COMPLETO DEJA LOS CREDITOS DEL BOT 
+
 -卐 EL BOT ES COMPARTIBLE CON WHATSAPP NORMAL O BUSINESS
+
 -卐 ATENTO A LAS ACTUALIZACIONES QUE SE HAGAN EN ESTE REPOSITORIO
+
 -卐 EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE POR ELLO SE ACTIVA CON #enable restrict 
+
 -卐 RICARDO EL CREADOR NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
+
