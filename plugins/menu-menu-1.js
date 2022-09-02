@@ -109,7 +109,6 @@ let str = `
 °卐⛩️ _${usedPrefix}topgays_
 °卐⛩️ _${usedPrefix}topotakus_
 °卐⛩️ _${usedPrefix}formarpareja_
-°卐⛩️ _${usedPrefix}formaramigos_
 °卐⛩️ _${usedPrefix}verdad_
 °卐⛩️ _${usedPrefix}reto_
 °卐⛩️ _${usedPrefix}cancion_
